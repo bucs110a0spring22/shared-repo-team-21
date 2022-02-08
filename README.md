@@ -5,6 +5,6 @@
 
 ## Team Members
 
-* Team Member 1:
-* Team Member 2:
-* Team Member 3:
+* Team Member 1: Arena Rahman
+* Team Member 2: Aiden Lin
+* Team Member 3: Jeffrey Abreu
